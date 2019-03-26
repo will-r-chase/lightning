@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+nldn_csv
+nldn-2012.nc
+clean_lightning_data.rds
